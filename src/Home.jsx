@@ -6,7 +6,7 @@ export default function Home() {
       <section id="hero" className="min-h-screen w-full flex flex-col items-center justify-center bg-gray-100 p-6">
         <img
           src="/profile.jpeg"
-          alt="profile"
+          alt="/profile"
           className="w-40 h-40 rounded-full mb-6 object-cover shadow-lg border-4 border-white"
         />
         <h1 className="text-5xl md:text-6xl font-extrabold text-indigo-700 tracking-tight text-center">
